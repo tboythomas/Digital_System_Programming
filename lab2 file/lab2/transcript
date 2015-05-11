@@ -1,0 +1,39 @@
+# Reading C:/altera/14.0/modelsim_ase/tcl/vsim/pref.tcl 
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module DE1_SoC
+# -- Compiling module Fdigit
+# -- Compiling module Sdigit
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# vsim -lib work -voptargs=\"+acc\" -t 1ps DE1_SoC_testbench 
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# Loading work.Fdigit
+# Loading work.Sdigit
+# ** Error: Cannot open macro file: DE1_SoC.do
+# Error in macro ./runlab.do line 17
+# Cannot open macro file: DE1_SoC.do
+#     while executing
+# "do DE1_SoC.do"
+restart -f
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# Loading work.Fdigit
+# Loading work.Sdigit
+add wave  \
+sim:/DE1_SoC_testbench/HEX1
+add wave -position end  sim:/DE1_SoC_testbench/HEX4
+add wave -position end  sim:/DE1_SoC_testbench/HEX5
+add wave -position end  sim:/DE1_SoC_testbench/LEDR
+add wave -position end  sim:/DE1_SoC_testbench/KEY
+add wave -position end  sim:/DE1_SoC_testbench/SW
+add wave -position end  sim:/DE1_SoC_testbench/i
+run -all
+# WARNING: No extended dataflow license exists
