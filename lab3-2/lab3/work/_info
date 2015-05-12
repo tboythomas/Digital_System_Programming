@@ -1,0 +1,229 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\wlc2013\Desktop\ee 271\lab1
+vDE1_SoC
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z2 !s100 N]H]bEDoMj=CC0Z>@FM131
+Z3 IQFR;]h18?C4gf;O4F_Qnf1
+Z4 VhOmPm;FlUXk3D7UUAKiLD1
+Z5 !s105 DE1_SoC_sv_unit
+S1
+Z6 dC:\Users\wlc2013\Desktop\lab3
+Z7 w1429742901
+Z8 8./DE1_SoC.sv
+Z9 F./DE1_SoC.sv
+L0 2
+Z10 OV;L;10.1e;51
+r1
+!s85 0
+31
+Z11 !s108 1429742969.756000
+Z12 !s107 ./DE1_SoC.sv|
+Z13 !s90 -reportprogress|300|./DE1_SoC.sv|
+!s101 -O0
+o-O0
+Z14 n@d@e1_@so@c
+vDE1_SoC_testbench
+R1
+!i10b 1
+Z15 !s100 UI7F105;88ElHYdN@?WK01
+Z16 IYo4f_jQRCdI@Ea`P8dLWW3
+Z17 V0JQR1@XTkC<M<>j8_4C8B1
+R5
+S1
+R6
+R7
+R8
+R9
+L0 40
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+o-O0
+Z18 n@d@e1_@so@c_testbench
+vdiscounted
+R1
+!i10b 1
+Z19 !s100 DhjoGBI;maAHUX^S:KVBK2
+Z20 I<:_B5AOjFFnWfT>0aamIK2
+Z21 V]:10F:zHozoLS3<83k4lW1
+R5
+S1
+R6
+R7
+R8
+R9
+L0 32
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+o-O0
+vFdigit
+R1
+Z22 IHmZDYhgO36Wfe2Y6@lN3j2
+Z23 VzZjO_SFBek`bPQ84dH7PF1
+R5
+S1
+Z24 dC:\Users\wlc2013\Desktop\lab2
+Z25 w1429057205
+R8
+R9
+L0 26
+R10
+r1
+31
+Z26 !s108 1429057227.250000
+Z27 !s107 ./DE1_SoC.sv|
+R13
+o-O0
+Z28 n@fdigit
+Z29 !s100 ECghjTLh;QmVnc;9DJZJ?1
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2_1
+R1
+Z30 Iaa745>cY5BI98_J_mk4JD1
+Z31 VDaJbi4TKY[OoJJIdmR=?E3
+Z32 !s105 mux2_1_sv_unit
+S1
+Z33 dC:\Users\wlc2013\Desktop\ee 271\lab1
+Z34 w1428390968
+Z35 8./mux2_1.sv
+Z36 F./mux2_1.sv
+L0 1
+Z37 OV;L;10.1d;51
+r1
+31
+Z38 !s108 1428391700.580000
+Z39 !s107 ./mux2_1.sv|
+Z40 !s90 -reportprogress|300|./mux2_1.sv|
+o-O0
+Z41 !s100 `1AR?BzYL:_^=GYjVW=j52
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2_1_testbench
+R1
+Z42 If8Tk>Lme;aciDUmCSke__3
+Z43 Veb]=`Kc4=P>olk?Tl<c;03
+R32
+S1
+R33
+R34
+R35
+R36
+L0 7
+R37
+r1
+31
+R38
+R39
+R40
+o-O0
+Z44 !s100 3ZL;IYT5T0@XVDXcInidj1
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4_1
+R1
+Z45 !s100 2Z<1onUb^7HJH;Nn]3Zi@3
+Z46 I9MDCMCb2a^5C]jc0R]:Pf3
+Z47 VJEUo1i2RzJ5S2QjbAZkQJ2
+Z48 !s105 mux4_1_sv_unit
+S1
+Z49 dC:\Users\wlc2013\Desktop\ee 271\lab1a
+Z50 w1428393047
+Z51 8./mux4_1.sv
+Z52 F./mux4_1.sv
+L0 1
+R37
+r1
+31
+Z53 !s108 1428393776.874000
+Z54 !s107 ./mux4_1.sv|
+Z55 !s90 -reportprogress|300|./mux4_1.sv|
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4_1_testbench
+R1
+Z56 !s100 gT5>2WTF8kY6odZC_h:g:3
+Z57 IhCoDRBJ43DFl7I;<gYAQP2
+Z58 VF1`Z8diZTzG1W]GXVUalU1
+R48
+S1
+R49
+R50
+R51
+R52
+L0 10
+R37
+r1
+31
+R53
+R54
+R55
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vSdigit
+R1
+Z59 !s100 g]7GncG35iRkc:]TaW`oC0
+Z60 Iz?z<V<2B[bBdb=mYe6`BB3
+Z61 V3k5C_2MOG18@GPZlm_]Q=2
+R5
+S1
+R24
+R25
+R8
+R9
+L0 36
+R10
+r1
+31
+R26
+R27
+R13
+o-O0
+Z62 n@sdigit
+!i10b 1
+!s85 0
+!s101 -O0
+vstolen
+R1
+!i10b 1
+Z63 !s100 VW1Mfhk7g0ccbb=lM6Z2n0
+Z64 IO4Bzb@81oIS=8<K7cMa<i0
+Z65 VKZ9XIUV34R2:X6LoWF6SL0
+R5
+S1
+R6
+R7
+R8
+R9
+L0 21
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+o-O0
